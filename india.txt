@@ -1,0 +1,80 @@
+C Delhi 77.2 28.6
+C Chandigarh 76.8 30.7
+C Amritsar 74.9 31.6
+C Jaipur 75.8 26.9
+C Jodhpur 73.0 26.3
+C Udaipur 73.7 24.6
+C Agra 78.0 27.2
+C Kanpur 80.35 26.45
+C Lucknow 80.9 26.8
+C Varanasi 83.0 25.3
+C Patna 85.1 25.6
+C Ranchi 85.3 23.35
+C Kolkata 88.4 22.6
+C Guwahati 91.7 26.1
+C Bhubaneswar 85.8 20.3
+C Raipur 81.6 21.25
+C Nagpur 79.1 21.1
+C Bhopal 77.4 23.3
+C Indore 75.85 22.7
+C Ahmedabad 72.6 23.0
+C Surat 72.8 21.2
+C Mumbai 72.8 19.0
+C Pune 73.8 18.5
+C Goa 73.8 15.5
+C Hyderabad 78.5 17.4
+C Visakhapatnam 83.3 17.7
+C Bengaluru 77.6 12.97
+C Chennai 80.3 13.1
+C Coimbatore 77.0 11.0
+C Madurai 78.1 9.9
+C Kochi 76.3 9.9
+R Delhi Chandigarh 245 4.5 343
+R Chandigarh Amritsar 230 4.2 322
+R Delhi Jaipur 280 5.1 392
+R Delhi Agra 230 4.2 322
+R Agra Jaipur 240 4.4 336
+R Agra Lucknow 330 6.0 462
+R Delhi Lucknow 550 10.0 770
+R Lucknow Kanpur 80 1.5 112
+R Kanpur Agra 280 5.1 392
+R Lucknow Varanasi 300 5.5 420
+R Varanasi Patna 250 4.5 350
+R Patna Ranchi 330 6.0 462
+R Patna Kolkata 580 10.5 812
+R Ranchi Kolkata 400 7.3 560
+R Ranchi Raipur 580 10.5 812
+R Jaipur Jodhpur 340 6.2 476
+R Jaipur Udaipur 395 7.2 553
+R Jodhpur Udaipur 250 4.5 350
+R Udaipur Ahmedabad 260 4.7 364
+R Jaipur Ahmedabad 670 12.2 938
+R Ahmedabad Surat 265 4.8 371
+R Surat Mumbai 280 5.1 392
+R Mumbai Pune 150 2.7 210
+R Ahmedabad Indore 400 7.3 560
+R Indore Bhopal 190 3.5 266
+R Bhopal Agra 480 8.7 672
+R Bhopal Nagpur 350 6.4 490
+R Indore Mumbai 590 10.7 826
+R Nagpur Raipur 290 5.3 406
+R Nagpur Hyderabad 500 9.1 700
+R Raipur Bhubaneswar 540 9.8 756
+R Bhubaneswar Kolkata 440 8.0 616
+R Bhubaneswar Visakhapatnam 440 8.0 616
+R Visakhapatnam Hyderabad 620 11.3 868
+R Visakhapatnam Chennai 800 14.5 1120
+R Pune Hyderabad 560 10.2 784
+R Pune Goa 450 8.2 630
+R Mumbai Goa 590 10.7 826
+R Goa Bengaluru 560 10.2 784
+R Pune Bengaluru 840 15.3 1176
+R Hyderabad Bengaluru 570 10.4 798
+R Hyderabad Chennai 625 11.4 875
+R Bengaluru Chennai 345 6.3 483
+R Bengaluru Coimbatore 365 6.6 511
+R Coimbatore Kochi 190 3.5 266
+R Coimbatore Madurai 215 3.9 301
+R Madurai Chennai 460 8.4 644
+R Kochi Madurai 270 4.9 378
+R Kolkata Guwahati 1030 18.7 1442
